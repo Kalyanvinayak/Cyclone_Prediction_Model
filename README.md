@@ -1,4 +1,4 @@
-# Cyclone Intensity Prediction
+# Cyclone Prediction
 
 ## Introduction
 
